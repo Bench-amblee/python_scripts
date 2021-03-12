@@ -6,3 +6,4 @@ collection of various small python projects from:
 - Springboard Data Science Prep Course
 - Other online courses
 
+
