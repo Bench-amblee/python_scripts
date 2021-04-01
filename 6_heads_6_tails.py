@@ -2,7 +2,7 @@ import random
 NumberOfStreaks = 0
 print('Type "flip" to flip 100 coins 10000 times. The program will count how many times there are 6 instances of tails or heads in a row')
 input()
-for ExperimentNumber in range(10000): #test 10000 times
+for ExperimentNumber in range(10000): #test coin flip 10000 times
     #flip 100 coins
     Trials = 101
     Results = []
