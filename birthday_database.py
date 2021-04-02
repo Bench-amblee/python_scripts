@@ -1,4 +1,4 @@
-birthdays = {'Alice': 'April 1st', 'Bob': 'December 2nd', 'Carol': 'March 4th'}
+birthdays = {'Alice': 'April 1st', 'Bob': 'December 2nd', 'Carol': 'March 4th', 'David': 'November 16th'}
 
 while True:
     print('Enter a name: (blank to quit)')
